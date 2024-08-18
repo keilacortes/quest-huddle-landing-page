@@ -1,6 +1,6 @@
 # Quest Huddle Landing Page
 
-Esta é uma solução para o desafio proposto durando o curso Dev Quest disponível no site do [Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
+Esta é uma solução para o desafio proposto durante o curso Dev Quest disponível no site do [Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
 ## Visão Geral
 
@@ -19,8 +19,8 @@ Consiste em uma landing page com uma única seção introdutória onde os usuár
 
 ### Links
 
-- URL da solução
-- URL do site ao vivo: 
+- [URL da solução](https://github.com/keilacortes/quest-huddle-landing-page)
+- [URL do site ao vivo](https://keilacortes.github.io/quest-huddle-landing-page/)
 
 ### Tecnologias Utilizadas
 
