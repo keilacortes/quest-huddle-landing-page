@@ -13,8 +13,7 @@ Consiste em uma landing page com uma única seção introdutória onde os usuár
 
 ### Captura de Tela
 
-![captura de tela desktop](cap01.PNG)
-![captura de tela mobile](cap02.PNG)
+![captura de tela desktop](cap01.PNG) 
 
 
 ### Links
